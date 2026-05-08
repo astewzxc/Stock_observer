@@ -1,0 +1,6 @@
+langgraph
+langchain-google-genai
+yfinance
+line-bot-sdk
+python-dotenv
+schedule
